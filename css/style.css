@@ -227,9 +227,7 @@ text-align: center;
 margin-top:15vh;
 }
 @media screen and (max-width: 500px) {
-    .cvdisplay .left ul{
-        list-style: upper-latin
-        }
+    
         .cvdisplay .left ul li{
             float: left;
             width:50%;
