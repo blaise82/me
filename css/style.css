@@ -261,6 +261,7 @@ margin-top: -25px;
 }
 .cvhead{
 font-weight: bold;
+text-transform: uppercase;
 }
 
 /*form styles*/
@@ -404,4 +405,27 @@ margin-bottom: 20px;
 .form-style-7 input[type="button"]:hover{
 background: #6B9FFF;
 color:#F8F8F8;
+}
+.profile {
+    width: 45px;
+    height:45px;
+    overflow: hidden;
+    border-radius: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.profile img{
+    width: 100%;
+    height: auto;
+}
+.orange{
+    color: #FF5851;
+}
+.blue{
+    color: #6B9FFF;
+}
+.white{
+    color: white;
 }
